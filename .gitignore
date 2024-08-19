@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+magic-retry-backend/dist
+magic-retry-backend/node_modules
+magic-retry-gui/node_modules
+.DS_Store
