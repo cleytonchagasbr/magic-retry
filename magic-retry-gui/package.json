@@ -1,0 +1,14 @@
+{
+  "name": "magic-retry-gui",
+  "version": "1.0.0",
+  "author": "Cleyton Chagas",
+  "description": "magic retry - easy message control",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.4.0"
+  }
+}
